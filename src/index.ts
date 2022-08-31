@@ -1,1 +1,4 @@
-localStorage.getItem();
+import {init, exit} from "myPackage";
+
+init({url:"string"});
+exit(1);
